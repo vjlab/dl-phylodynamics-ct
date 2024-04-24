@@ -97,4 +97,4 @@ gotree reformat newick -f nexus -i trees/genetic_resovled_rescale_tree.nwk.resul
 ```
 
 ## Examples of seven types of phylogenetic trees used in simulations
-(tree simulation.png)
+![Fig.1](dl-phylodynamics-ct/tree_simulations/tree simulation.png)

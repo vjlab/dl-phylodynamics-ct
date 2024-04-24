@@ -1,6 +1,6 @@
 # Deep learning of SARS-CoV-2 outbreak phylodynamics with contact tracing data
 
-Ruopeng Xie1,2,*, Dillon C. Adam1, Shu Hu1,2, Benjamin J. Cowling1,3, Olivier Gascuel4, Anna Zhukova5,*, Vijaykrishna Dhanasekaran1,2,*
+Ruopeng Xie1,2,\*, Dillon C. Adam1, Shu Hu1,2, Benjamin J. Cowling1,3, Olivier Gascuel4, Anna Zhukova5,\*, Vijaykrishna Dhanasekaran1,2,\*
 
 
 1 School of Public Health, LKS Faculty of Medicine, The University of Hong Kong; Hong Kong S.A.R., China
