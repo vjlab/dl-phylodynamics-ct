@@ -1,0 +1,43 @@
+
+LEAST-SQUARE METHODS TO ESTIMATE RATES AND DATES - v.2.4.4 
+
+
+Input files:
+  i                                               Input tree file : refined_trees/genetic_resovled_rescale_tree.cluster.infection.0.5.nwk
+  d                                               Input date file : contact_data/date_ct_0.5.tsv
+  p                                                Partition file : No
+  g                                               Given outgroups : No
+Output file:
+  o                                                  Output file  : refined_trees/genetic_resovled_rescale_tree.cluster.infection.0.5.nwk.result
+Parameters:
+  a                                                     Root date : No
+  z                                                     Tips date : No
+  c                                              With constraints : Yes
+  t                                      Lower bound for the rate : 1e-10
+  v                                                With variances : Yes, use variances based on input branch lengths
+  b                              Adjusted parameter for variances : To estimate
+  r                                             Estimate the root : Around the given root
+  w                                       Given substitution rate : ../tree_simulations/trees/clock.txt
+  n                                             Multiple data set : No
+  f                                  Compute confidence intervals : No
+  s                                               Sequence length : 29903
+  e                                          Exclude outlier tips : No
+  u                Min internal branch length of time scaled tree : 0.000114155
+  U                Min external branch length of time scaled tree : 0.000114155
+  l                        Collapsed internal branch length limit : 1.67207e-05
+  D                                            Output date format : Based on input date format
+  E  Estimate rates for external and internal branches separately : No
+
+  h to print Help 
+  y to accept or type a letter to change an option (x = Exit) 
+Tree 1 
+Parameter to adjust variances was set to 0.000334415 (settable via option -b)
+Minimum branch length of time scaled tree (settable via option -u and -U): 0.000114155
+
+*RESULTS:
+- Dating results:
+ rate 0.0008, tMRCA 2000 , objective function 0.000413315
+
+*********************************************************
+
+TOTAL ELAPSED TIME: 2.36388 seconds
