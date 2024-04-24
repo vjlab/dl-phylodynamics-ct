@@ -1,5 +1,4 @@
 # Tree Simulations
-Simulations of phylogenetic trees
 ![](tree_simulation.png)
 
 ## 'Ideal' Tree (Baseline Tree)
