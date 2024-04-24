@@ -1,5 +1,6 @@
 # Tree Simulations
 Simulations of phylogenetic trees
+![](tree_simulation.png)
 
 ## 'Ideal' Tree (Baseline Tree)
 
@@ -95,6 +96,3 @@ lsd2_mac -i trees/genetic_resovled_rescale_tree.nwk -d trees/date.tsv -l -1 -s 2
 # convert to nwk and rename
 gotree reformat newick -f nexus -i trees/genetic_resovled_rescale_tree.nwk.result.date.nexus -o trees/dated_resovled_tree.nwk
 ```
-
-## Examples of seven types of phylogenetic trees used in simulations
-![](tree_simulation.png)
